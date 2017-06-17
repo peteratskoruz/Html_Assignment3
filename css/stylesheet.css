@@ -1,0 +1,11 @@
+body{
+    margin: 0;padding: 0;
+}
+
+.assign{padding: 15px 15px;width: 600px;margin: 0 auto;}
+
+.assign table{width: 100%;}
+
+.assign table tr{height: 30px;}
+
+.assign table, th, td {  border: 1px solid #000; border-collapse: collapse;text-align: center;}
